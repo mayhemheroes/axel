@@ -3,3 +3,4 @@ target: axel
 
 cmds:
   - cmd: /install/bin/axel https://github.com/rnshah9/axel
+    filepath: /etc/axelrc
