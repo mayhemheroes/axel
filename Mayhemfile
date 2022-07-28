@@ -2,5 +2,4 @@ project: axel
 target: axel
 
 cmds:
-  - cmd: /repo/axel https://github.com/rnshah9/axel
-    filepath: /etc/axelrc
+  - cmd: /install/bin/axel https://github.com/rnshah9/axel
